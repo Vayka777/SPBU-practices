@@ -1,4 +1,5 @@
 ﻿// ea
+
 #include <iostream>
 
 void main()
