@@ -1,2 +1,2 @@
 # Homework
-first practice
+University practice
