@@ -1,2 +1,2 @@
-# Homework
-University practice
+# University practice
+Home and practice tasks
