@@ -13,7 +13,7 @@ void input(int** a, int M, int N)
     {
         for (j = 0; j < N; j++)
         {
-            a[i][j] = rand() % 50 + 10;
+            a[i][j] = rand() % 41 + 10;
         }
     }
 }
